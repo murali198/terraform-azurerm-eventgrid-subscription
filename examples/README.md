@@ -54,6 +54,7 @@ module "eventgrid_subscription" {
       ]
     }
   ]
+  
 }
 
 ```
